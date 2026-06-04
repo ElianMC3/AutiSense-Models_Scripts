@@ -1,0 +1,12 @@
+# Excluir matrices binarias de datos
+*.npy
+
+# Excluir modelos entrenados pesados
+*.keras
+*.pkl
+*.h5
+
+# Excluir carpetas de datos masivos y respaldos comprimidos
+dataset/
+*.zip      
+
